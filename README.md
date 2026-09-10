@@ -16,10 +16,12 @@ Though this is build on TheSmithPlays' Pokemon Crystal Legacy it is NOT compatib
 + Player can fly directly from Johto to Indigo Plateau and from Kanto to New Bark
 + Check the [Feature details](https://github.com/koralraev/Pokemon_Crystal_Legacy_AnyStarter/blob/main/DETAILS.md#features) for more info
 
+![anypokemon](https://imglink.cc/cdn/LuYtPJk8mw.png) ![shiny+itemfinder](https://imglink.cc/cdn/Pu7zQZ0POH.png) ![flyservice](https://imglink.cc/cdn/8TfCy3fC44.gif) ![shadytutor](https://imglink.cc/cdn/RVzGxOQYvh.png) ![statmenu](https://imglink.cc/cdn/Qd2Dw4xgSd.png) ![indigoflypoint](https://imglink.cc/cdn/bG04jATdNm.png) ![haircutelder](https://imglink.cc/cdn/DedTNssMFK.png)
 
 
 # Additions
-+ New Items: Weather rocks and other duration extending hold items, like Light Clay. Changes to existing items to act as duration extending items for certain moves
++ New Items: Wide Lens, Big Root, Weather rocks and other duration extending hold items, like Light Clay.
++ Changes to existing items to act as duration extending items for certain moves
 + New Moves: Hone Claws, Nasty Plot, Iron Defense, Hail
 + New TMs: Thunder Wave, Hone Claws, Nasty Plot, Swords Dance, Amnesia, Iron Defense, Hail
 + Changes to weathers
@@ -31,6 +33,7 @@ Though this is build on TheSmithPlays' Pokemon Crystal Legacy it is NOT compatib
 + A pokemon from a later generation can be obtained through a trade sequence quest started in Mahogany Town
 + Check the [Addition details](https://github.com/koralraev/Pokemon_Crystal_Legacy_AnyStarter/blob/main/DETAILS.md#additions) for more info
 
+![icyrock](https://imglink.cc/cdn/SY5Po3H-jU.png) ![newmoves](https://imglink.cc/cdn/q__9qvqW-j.png) ![tradequest](https://imglink.cc/cdn/lseSr5VjC8.png) ![bigroot](https://imglink.cc/cdn/kVy16C87EC.png) ![newitems](https://imglink.cc/cdn/Ox5A-WMoa5.png)
 
 
 # Some Enhancements
@@ -53,5 +56,7 @@ Though this is build on TheSmithPlays' Pokemon Crystal Legacy it is NOT compatib
 + Changes to certain enemy trainers to use new items and moves
 + The AI's 25% chance to fail status moves has been removed
 + Check the [Enhancement details](https://github.com/koralraev/Pokemon_Crystal_Legacy_AnyStarter/blob/main/DETAILS.md#some-enhancements) for more info
+
+![movereminder_location](https://imglink.cc/cdn/p4QkCac5bm.png) ![cianwood_nob](https://imglink.cc/cdn/_Xve_b3NyV.png) ![charizard](https://imglink.cc/cdn/eVALHQ_now.png) 
   
 
