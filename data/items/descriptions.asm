@@ -860,7 +860,7 @@ BerserkGeneDesc:
 
 WideLensDesc:
 	db   "Slightly boosts"
-	next "move accuracy.@"
+	next "accuracy. (HOLD)@"
 
 TeruSama19Desc:
 	db   "?@"

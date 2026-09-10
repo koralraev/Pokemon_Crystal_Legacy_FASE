@@ -834,7 +834,7 @@ ForceSwitch:
 	checkobedience
 	usedmovetext
 	doturn
-	checkhit
+	checkhit ;dont remove
 	forceswitch
 	endmove
 

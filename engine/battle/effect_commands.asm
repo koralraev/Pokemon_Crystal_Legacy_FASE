@@ -1589,19 +1589,12 @@ BattleCommand_CheckHit:
 	call GetBattleVar
 	cp EFFECT_ALWAYS_HIT
 	ret z
-	
-; new moves with -1 accuracy will always hit. Affect moves: roar, whirlwind, struggle
-	ld a, [wPlayerMoveStruct + MOVE_ACC]
-	ld b, a
-	ldh a, [hBattleTurn]
-	and a
-	jr z, .check_raw_acc
-	ld a, [wEnemyMoveStruct + MOVE_ACC]
-	ld b, a
-.check_raw_acc
-	ld a, b
-	cp -1
-	ret z	
+	cp EFFECT_FORCE_SWITCH ;roar and whirlwind
+	ret z
+	ld a, BATTLE_VARS_MOVE_ANIM
+	call GetBattleVar
+	cp STRUGGLE
+	ret z
 
 	call .StatModifiers
 	

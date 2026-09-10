@@ -5,7 +5,7 @@ move: MACRO
 	db \2 ; effect
 	db \3 ; power
 	db \4 ; type
-	db \5 percent ; accuracy set -1 to always hit same effect as EFFECT_ALWAYS_HIT
+	db \5 percent ; accuracy
 	db \6 ; pp
 	db \7 percent ; effect chance
 ENDM
@@ -29,7 +29,7 @@ Moves:
 	move SWORDS_DANCE, EFFECT_ATTACK_UP_2,         0, NORMAL,       100, 30,   0
 	move CUT,          EFFECT_NORMAL_HIT,         55, BUG,          100,  30,   0
 	move GUST,         EFFECT_GUST,               40, FLYING,       100, 35,   0
-	move WING_ATTACK,  EFFECT_PRIORITY_HIT,        50, FLYING,       100, 35,   0
+	move WING_ATTACK,  EFFECT_PRIORITY_HIT,        50, FLYING,      100, 35,   0
 	move WHIRLWIND,    EFFECT_FORCE_SWITCH,        0, NORMAL,        -1, 20,   0
 	move FLY,          EFFECT_FLY,                70, FLYING,       100, 15,   0
 	move BIND,         EFFECT_TRAP_STACK,          0, NORMAL,        95, 30,   0
@@ -82,7 +82,7 @@ Moves:
 	move LOW_KICK,     EFFECT_FLINCH_HIT,         50, FIGHTING,     100, 20,  30
 	move COUNTER,      EFFECT_COUNTER,             1, FIGHTING,     100, 20,   0
 	move SEISMIC_TOSS, EFFECT_LEVEL_DAMAGE,        1, FIGHTING,     100, 20,   0
-	move STRENGTH,     EFFECT_NORMAL_HIT,         80, FIGHTING,       100, 15,   0
+	move STRENGTH,     EFFECT_NORMAL_HIT,         80, FIGHTING,     100, 15,   0
 	move ABSORB,       EFFECT_LEECH_HIT,          20, GRASS,        100, 25,   0
 	move MEGA_DRAIN,   EFFECT_LEECH_HIT,          40, GRASS,        100, 20,   0
 	move LEECH_SEED,   EFFECT_LEECH_SEED,          0, GRASS,         90, 10,   0
