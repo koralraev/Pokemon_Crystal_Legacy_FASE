@@ -353,7 +353,7 @@ SCKingsRockText:
 	cont "and damp places,"
 	cont "usually populated"
 	cont "by SLOWPOKEs."
-	para "Noone is sure if"
+	para "No one is sure if"
 	line "there is a"
 	cont "correlation there."
 	para "You can buy it for"

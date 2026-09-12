@@ -33,6 +33,7 @@ Original readme at: https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy?tab=re
 	| Goggles | Safety Goggles from Gen6. Protects the holder from weather damage (sand/hail) and spore and powder based moves: Poison Powder, Stun Spore, Sleep Powder, Spore, Cotton Spore | <details><summary>Spoiler</summary>Can be bought from the Stone Curator in Dark Cave near Blackthorn City</details> |
 	| Big Root | Makes draining moves heal 25% more. Draining moves: Absorb, Mega Drain, Giga Drain, Leech Life, Dream Eater, Leech Seed | <details><summary>Spoiler</summary>Can be bought from the youngster in Goldenrod Department Store 2nd Floor</details> |
 	| Cleanse Tag | Extends durations of SAFEGUARD from 5 to 8 turns in addition to repelling wild pokemon | <details><summary>Spoiler</summary>Given by Granny in Azalea gate to Ilex Forest</details> |
+	| Wide Lens | Boosts accuracy by 10%. The boosts is not static, so a 70% accuracy move will get 77% accuracy, not 80%.  | <details><summary>Spoiler</summary>Held by wild Yanma (5%)</details> |
   </details>
 
 + Sandstorm now boosts ROCK-types Special Defence by 50%
@@ -107,6 +108,7 @@ Original readme at: https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy?tab=re
 	| Strength | Now fighting type |
 	| Bind/Wrap | Now adds a stack of "bind" or "wrap" to the target dealing 1/16 max hp damage at the end of the turn (like damage from leech seed or poison). A stack lasts for 3 turns, and up to three stacks can be placed on a target; 1 stacks = 1/16, 2 stacks = 2/16, and 3 stacks = 3/16 max hp damage. To get to 3 stacks Bind/Wrap must be used on 3 consecutive turns, otherwise the first placed stack will "run out". Text in battle will display the number of stacks currently on the target (like Perish Songs count), and the number of "vines" or "robes" in the animation also indicate the number of stacks. |
 	| Sunny Day and Rain Dance | Now has 100% accuracy |
+	|Roar, Whirlwind and Struggle | Now always hit, except if target is in a semi-invulnerable turn using Dig or Fly, except Whirlwind which can hit targets using Fly. |
   </details>
   
 + There is now a total of ~30% chance for a wild pokemon that has held items to have an item: rare items increased from ~2% to ~5%, and from ~23% to ~25% for the common item. 
